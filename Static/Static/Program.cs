@@ -49,7 +49,7 @@ namespace Static
         public static double FahrenheitToCelsius(double fahren)
         {
 
-            double cel = fahren - 32 / 1.8;
+            double cel = (fahren - 32) / 1.8;
             return cel;
         }
 
