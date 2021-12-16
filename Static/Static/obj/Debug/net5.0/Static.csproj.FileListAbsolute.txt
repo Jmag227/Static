@@ -1,0 +1,16 @@
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\bin\Debug\net5.0\Static.exe
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\bin\Debug\net5.0\Static.deps.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\bin\Debug\net5.0\Static.runtimeconfig.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\bin\Debug\net5.0\Static.runtimeconfig.dev.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\bin\Debug\net5.0\Static.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\bin\Debug\net5.0\ref\Static.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\bin\Debug\net5.0\Static.pdb
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\obj\Debug\net5.0\Static.csproj.AssemblyReference.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\obj\Debug\net5.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\obj\Debug\net5.0\Static.AssemblyInfoInputs.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\obj\Debug\net5.0\Static.AssemblyInfo.cs
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\obj\Debug\net5.0\Static.csproj.CoreCompileInputs.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\obj\Debug\net5.0\Static.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\obj\Debug\net5.0\ref\Static.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\obj\Debug\net5.0\Static.pdb
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Static\Static\Static\obj\Debug\net5.0\Static.genruntimeconfig.cache
